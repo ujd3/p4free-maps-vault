@@ -1,4 +1,4 @@
-Vault de mapas de p4free/gladiador/guerra livre para impedir que sejam perdidos junto com servidores/projetos discontinuados.
+Vault de mapas de p4free/gladiador/guerra livre para todos para impedir que sejam perdidos junto com servidores/projetos discontinuados.
 
 AVISO: Não foi eu que fiz os mapas, não editei, não faço idéia de quem buildou, não revenda esses mapas para evitar dor de cabeça.
 
